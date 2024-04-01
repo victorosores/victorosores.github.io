@@ -9,7 +9,7 @@ Nombre: Víctor Andrés Osores Escalona
 Fecha de Nacimiento: 10 de Agosto de 1988  
 Nacionalidad: Chilena  
 Email: vosores@ucm.cl  
-Página personal: [https://vosores.github.io](https://vosores.github.io)
+Página personal: [https://vosores.github.io](https://victorosores.github.io)
 
 ### Afiliación
 
@@ -359,8 +359,9 @@ Concepción-Chile
 - **[2024-1]** Modelización Discreta, Doctorado en modelamiento matemático aplicado, UCM.
 - **[2023-2]** Ecuaciones Diferenciales Ordinarias, UCM.
   - [Apunte de Ecuaciones Diferenciales Ordinarias](https://victorosores.github.io/files/EDO.pdf), **Víctor Osores**.
-
-
+- **[2023-1]** Modelamiento y fenómenos de evolución, UCM.
+  - [Predator-prey example](./predator-prey.html)
+ 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
