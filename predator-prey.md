@@ -6,18 +6,6 @@ description: Un ejemplo sencillo
 #### Modelo depredador-presa (Lotka–Volterra).
 Las siguientes ecuaciones describen la dinámica de un sistema biológico en el cual dos especies interactúan, una como presa y la otra como depredador. Las ecuaciones de Lotka-Volterra, con capacidad de carga del ambiente ($k$) vienen dadas por:
 
-\[
-a_1 = -Gm_2\frac{p_1 - p_2}{\lvert p_1 - p_2 \rvert ^3} - Gm_3\frac{p_1 - p_3}{\lvert p_1 - p_3 \rvert^3} \\
-\; \\
-\; \\
-a_2 = -Gm_3\frac{p_2 - p_3}{\lvert p_2 - p_3 \rvert ^3} - Gm_1\frac{p_2 - p_1}{\lvert p_2 - p_1 \rvert^3} \\
-\; \\
-\; \\
-a_3 = -Gm_1\frac{p_3 - p_1}{\lvert p_3 - p_1 \rvert ^3} - Gm_2\frac{p_3 - p_2}{\lvert p_3 - p_2 \rvert^3} 
-\]
-
-\(h=10.\)
-
 $$\begin{align*} \frac{dP}{dt}&=r_1 P \left(1-\frac{P}{k}\right)-a_1PD\\ \frac{dD}{d t}&=a_2 PD - r_2D, \end{align*}$$
 
 donde $r_1$, $r_2$, $a_1$, $a_2$ son parámetros (positivos) que representan las interacciones de las dos especies.
