@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Dr. Víctor Osores
 ---
 ## Curriculum Vitae
 ### Antecedentes personales
