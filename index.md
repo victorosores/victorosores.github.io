@@ -48,6 +48,7 @@ Talca, Chile.
 - Diseño de herramientas para QGIS (Sistema de Información Geográfica open source) y Análisis de imágenes satelitales.
 - Modelos lluvia-escorrentía.
 
+****
 ### Publicaciones
 
 #### Preprints Under Review
@@ -78,6 +79,7 @@ Talca, Chile.
 0. **Raimund Bürger**, **Víctor Osores**: *On the mathematical and numerical treatment of polydisperse sedimentation*. **Proceedings of the International Conference on Numerical Analysis, Computing and Applications in Science, Engineering and Technology (ICNumACA’18)**, (2018).
 {: reversed="reversed"}
 
+****
 ### Proyectos de investigación
 
 #### Supported by Universidad Católica del Maule
@@ -101,6 +103,7 @@ Participación: Ayudante de investigación.
 Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estudiante (CADE)
 {: reversed="reversed"}
 
+****
 ### Cargos
 
 - Académico e investigador en Universidad Católica del Maule [Actual].
@@ -109,7 +112,9 @@ Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estud
 - Postdoctorando en Departamento de Ingeniería Informática y Ciencias de la Computación, Unidad data science, Universidad de Concepción. Modelamiento matemático y simulación numérica del SARS-Cov-2.
 - Investigador y desarrollador de la herramienta South Rivers Toolbox bajo el proyecto CORFO código 19BP-117424.
 
-### Charlas en universidades
+****
+### Talks
+#### Charlas en universidades
 
 - Universidad Católica del Maule[Abril 2022]
 Departamento de Matemática, Física y Estadística
@@ -124,7 +129,7 @@ Centre for Mathematical Sciences Lund
 Lund-Sweden
 Título: A dynamic multilayer shallow water model for polydisperse sedimentation.
 
-### Congresos y seminarios (Expositor)
+#### Congresos y seminarios (Expositor)
 
 - Universidad de Concepción
 WONAPDE 2019
@@ -167,7 +172,7 @@ Iquique-Chile
 Sesión de Análisis Numérico para resolución de Ecuaciones Diferenciales Parciales.
 Título: Modelamiento matemático y simulación numérica de un sistema de shallow water multicapa con sedimentación polidispersa en dos dimensiones horizontales.
 
-### Congresos y seminarios (Asistencia)
+#### Congresos y seminarios (Asistencia)
 
 - Universidad de Concepción[Julio 2022]
 5th CI²MA workshop
@@ -209,6 +214,7 @@ COMCA 2012
 Antofagasta-Chile
 Sesión de Análisis Numérico para resolución de Ecuaciones Diferenciales Parciales.
 
+****
 ### Experiencia académica e investigación
 
 - Universidad de Concepción
@@ -255,6 +261,7 @@ Consultor en sala de estudios de la Facultad de Ciencias Físicas y Matemáticas
 Concepción-Chile
 Dar respuesta a consultas de los estudiantes de la Facultad en asignaturas de los primeros tres años de carrera. Álgebra, Álgebra lineal, Cálculo I, Cálculo II, Calculo III, Ecuaciones diferenciales (EDO, EDP), Análisis numérico, entre otras. Departamento de Ingeniería Matemática.
 
+****
 ### Cursos
 
 - Universidad de Concepción
@@ -281,11 +288,13 @@ Version Control Systems for Mathematical Researchers.
 Sevilla-España
 Instituto de Matemáticas Universidad de Sevilla Antonio de Castro Brzezicki (IMUS).
 
+****
 ### Premios y Distinciones
 
 - Beca de Doctorado nacional (CONICYT).
 - Beca CRHIAM (Centro de Recursos Hídricos para la Agricultura y la Minería).
 
+****
 ### Experiencia laboral privada y social
 
 - AES Gener S.A
@@ -298,11 +307,13 @@ Predicción de la cantidad de sedimento a través de rodetes en turbinas de gene
 Profesor de matemáticas en preuniversitario en Quillón
 Quillón-Chile
 
+****
 ### Idiomas
 
 - Inglés.
 - Español.
 
+****
 ### Conocimientos de computación
 
 - Sistemas operativos: Linux, Windows.
@@ -310,6 +321,7 @@ Quillón-Chile
 - Lenguaje de programación: Matlab, Paraview, Fortran 90, Python, CUDA, R.
 - Desarrollo colaborativo: Git, GitHub, GitKraken.
 
+****
 ### Formación Académica
 
 #### Educación Básica
@@ -338,10 +350,14 @@ Concepción-Chile
 Doctorado en ciencias aplicadas con mención en ingeniería matemática
 Concepción-Chile
 
-
-
-## Teaching
-
+****
+### Teaching
+#### Past and Current Courses
+- **[2024-1]** Análisis Matemático, UCM.
+  - [Capítulo 1](https://victorosores.github.io/files/chapter1.pdf), **Walter Rudin**, *Principles of mathematical analysis*.  
+- **[2024-1]** Introducción al Cálculo, UCM.
+- **[2024-1]** Modelización Discreta, Doctorado en modelamiento matemático aplicado, UCM.
+- **[2023-2]** Ecuaciones Diferenciales Ordinarias, UCM.
 
 
 <!-- 
