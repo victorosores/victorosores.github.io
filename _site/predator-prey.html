@@ -37,7 +37,7 @@
 
 <!-- end custom head snippets -->
 
-        <script type="text/x-mathjax-config">
+    <script type="text/x-mathjax-config">
       MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
     </script>
     <script type="text/javascript"
@@ -56,13 +56,13 @@
 
     <main id="content" class="main-content" role="main">
       <h4 id="modelo-depredador-presa-lotkavolterra">Modelo depredador-presa (Lotka–Volterra).</h4>
-<p>Las siguientes ecuaciones describen la dinámica de un sistema biológico en el cual dos especies interactúan, una como presa y la otra como depredador. Las ecuaciones de Lotka-Volterra, con capacidad de carga del ambiente ((k)) vienen dadas por:</p>
+<p>Las siguientes ecuaciones describen la dinámica de un sistema biológico en el cual dos especies interactúan, una como presa y la otra como depredador. Las ecuaciones de Lotka-Volterra, con capacidad de carga del ambiente ($k$) vienen dadas por:</p>
 
-<p>[ \begin{align<em>} \frac{dP}{dt}&amp;=r_1 P \left(1-\frac{P}{k}\right)-a_1PD\ \frac{dD}{d t}&amp;=a_2 PD - r_2D, \end{align</em>} ]</p>
+\[\begin{align*} \frac{dP}{dt}&amp;=r_1 P \left(1-\frac{P}{k}\right)-a_1PD\\ \frac{dD}{d t}&amp;=a_2 PD - r_2D, \end{align*}\]
 
-<p>donde (r_1, r_2, a_1, a_2) son parámetros (positivos) que representan las interacciones de las dos especies.</p>
+<p>donde $r_1$, $r_2$, $a_1$, $a_2$ son parámetros (positivos) que representan las interacciones de las dos especies.</p>
 
-<p><strong>Ejemplo</strong> del modelo presentado con condición inicial (P(0) = 2000) conejos, (D(0) = 10) lobos y capacidad de carga (k=10000) conejos.</p>
+<p><strong>Ejemplo</strong> del modelo presentado con condición inicial $P(0) = 2000$ conejos, $D(0) = 10$ lobos y capacidad de carga $k=10000$ conejos.</p>
 <div class="image" style="max-width: 100%; max-height: 50%;"><img src="https://vosores.github.io/predator_prey.png" style="max-width: 50%;" /><img src="https://vosores.github.io/predator_vs_prey.png" style="max-width: 50%;" /></div>
 <!-- </div> -->
 <h4 id="como-obtuve-la-solución-anterior-usando-métodos-numéricos">Como obtuve la solución anterior? Usando métodos numéricos.</h4>
