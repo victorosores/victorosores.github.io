@@ -13,17 +13,17 @@ Página personal: [https://vosores.github.io](https://vosores.github.io)
 
 ### Afiliación
 
-Académico e investigador
-Departamento de Matemática, Física y Estadística
-Facultad de Ciencias Básicas
-Universidad Católica del Maule
+Académico e investigador  
+Departamento de Matemática, Física y Estadística  
+Facultad de Ciencias Básicas  
+Universidad Católica del Maule  
 Talca, Chile.
 
 ### Títulos y grados
 
 - Doctor en ciencias aplicadas con mención en ingeniería matemática, Universidad de Concepción.
 - Ingeniero civil matemático, Universidad de Concepción.
--Licenciado en ciencias de la ingeniería matemática, Universidad de Concepción.
+- Licenciado en ciencias de la ingeniería matemática, Universidad de Concepción.
 
 ### Líneas de Especialización
 
@@ -44,34 +44,62 @@ Talca, Chile.
 - Mecánica de fluidos. Teoría de mezclas. Separación sólido-fluido. Sedimentación.
 - Modelos shallow water multicapa sobre canales inclinados.
 - Computación científica (Fortran90, Python, Matlab, R).
-- Desarrollo de la herramienta SRT (South Rivers Toolbox). Modelo predictor de cambios morfodiná- micos en ríos para ayudar a la gestión de cauces (Proyecto Innova Chile CORFO 19BP-117424).
+- Desarrollo de la herramienta SRT (South Rivers Toolbox). Modelo predictor de cambios morfodinámicos en ríos para ayudar a la gestión de cauces (Proyecto Innova Chile CORFO 19BP-117424).
 - Diseño de herramientas para QGIS (Sistema de Información Geográfica open source) y Análisis de imágenes satelitales.
 - Modelos lluvia-escorrentía.
 
+### Proyectos de investigación
+
+#### Supported by Universidad Católica del Maule
+0. **Principal Researcher** in UCM-IN-24200 internal grant. *Modelos espacio-temporales para estudiar la propagación de enfermedades infecciosas y de plagas en plantaciones*. (2024-2025).
+{: reversed="reversed"}
+
+#### Other research projects
+0. Proyecto Innova Chile – CORFO Bienes Públicos Adaptación al Cambio Climático. 19BP-117424 – South Rivers Toolbox: Modelo predictor de la morfodinámica fluvial para apoyar la gestión de cauces.
+Participación: Investigador y programador software South Rivers Toolbox.
+
+0. CONICYT/PIA/Concurso Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal (AFB170001).
+Participación: Investigador Postdoctoral.
+
+0. Proyecto CONICYT/FONDAP (15130015). Centro de Recursos hídricos para la agricultura y la minería (CRHIAM).
+Participación: Colaborador en investigación.
+
+0. Anillo de investigación en Análisis numérico de Ecuaciones Diferenciales Parciales (ANANUM), ACT-1118
+Participación: Ayudante de investigación.
+
+0. Proyecto UCO 1124, Dirección de Docencia de la Universidad de Concepción.
+Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estudiante (CADE)
+{: reversed="reversed"}
+
 ### Publicaciones
 
-- Calibration and validation of three hydrological models of daily rainfall applied in four small watersheds in south-central chile.
-Water; Cuartíl: Q1, Factor de impacto: 3.103.
-Neftali Flores, Rolando Rodríguez, Santiago Yepez, Víctor Osores, Pedro Rau, Francisco Balocchi.
+#### Preprints Under Review
+0. **Julio Careaga**, **Víctor Osores**, A multilayer shallow water model for polydisperse reactive sedimentation. **Preprint 2024-01**.
 
-- A multilayer shallow water approach for polydisperse sedimentation with sediment com-pressibility and mixture viscosity.[2020]
-Journal of Scientific Computing; Cuartíl: Q1, Factor de impacto: 2.37.
-Raimund Bürger, Enrique D. Fernández-Nieto, Víctor Osores.
+0. **Nicole Martínez-Jeraldo**, **Alejandro Rojas-Palma**, **Marcos Carrasco-Benavides**, **Víctor Osores**: *A mathematical model for the estimation of stomatal conductance under environmental variables*. **Preprint 2024-01**
+{: reversed="reversed"}
 
-- A dynamic multilayer shallow water model for polydisperse sedimentation. [2019]
-ESAIM: Mathematical Modelling and Numerical Analysis; Cuartíl: Q1, Factor de impacto: 1.988.
-Raimund Bürger, Enrique D. Fernández-Nieto, Víctor Osores.
+#### Papers in Scientific Journals
+0. **Santiago Yépez**, **Francisca Salas**, **Andrea Nardini**, **Noelia Valenzuela**, **Víctor Osores**, **José Vargas**, **Rolando Rodríguez**, **Hervé Piégay**: *Semi-automated morphological characterization using South Rivers Toolbox*. **IAHS2022–Variability and change across space, time, extremes, and interfaces**. (2023).
 
-### Reportes y Proceedings
+0. **Francisca Salas, Santiago Yépez, José Vargas, Rolando Rodríguez, Víctor Osores, Andrea Nardini, Hervé Piégay**: *"Morphological characterization of the duqueco river applying the river styles framework*. **Revista de la Sociedad Chilenade Ingeniería HidráulicaEdition (SOCHID)**, vol 37, Num. 3, (2022).
 
-- Mathematical Modelling in Sedimentation. Lecture Notes. [2021]
-Escuela de Primavera de Análisis Numérico (EPANUM 2019), Universidad de Concepción, 21-25 October 2019 (57 pp).
-Raimund Bürger, Julio Careaga, Stefan Diehl, Víctor Osores, Luis M. Villada.
+0. **Neftali Flores**, **Rolando Rodríguez**, **Santiago Yepez**, **Víctor Osores**, **Pedro Rau**, **Francisco Balocchi**: *Calibration and validation of three hydrological models of daily rainfall applied in four small watersheds in south-central chile*. **Water**, (2021).
 
-- On the mathematical and numerical treatment of polydisperse sedimentation. [2018]
-Proceedings of the International Conference on Numerical Analysis, Computing and Applications in Science, Engineering and Technology (ICNumACA’18).
-Raimund Bürger, Víctor Osores.
 
+0. **Raimund Bürger**, **Enrique D. Fernández-Nieto**, **Víctor Osores**: *A multilayer shallow water approach for polydisperse sedimentation with sediment compressibility and mixture viscosity*. **Journal of Scientific Computing**, (2020).
+
+
+0. **Raimund Bürger**, **Enrique D. Fernández-Nieto**, **Víctor Osores**: *A dynamic multilayer shallow water model for polydisperse sedimentation*. **ESAIM: Mathematical Modelling and Numerical Analysis**, (2019).
+{: reversed="reversed"}
+
+#### Articles in Proceedings or Book Chapters
+
+0. **Raimund Bürger**, **Julio Careaga**, **Stefan Diehl**, **Víctor Osores**, **Luis M. Villada**: *Mathematical Modelling in Sedimentation. Lecture Notes*. **Escuela de Primavera de Análisis Numérico (EPANUM 2019)**, Universidad de Concepción, 21-25 October 2019 (57 pp).
+
+
+0. **Raimund Bürger**, **Víctor Osores**: *On the mathematical and numerical treatment of polydisperse sedimentation*. **Proceedings of the International Conference on Numerical Analysis, Computing and Applications in Science, Engineering and Technology (ICNumACA’18)**, (2018).
+{: reversed="reversed"}
 ### Cargos
 
 - Académico e investigador en Universidad Católica del Maule [Actual].
@@ -79,23 +107,6 @@ Raimund Bürger, Víctor Osores.
 - Docente Part-time Universidad Católica de la Santísima Concepción.
 - Postdoctorando en Departamento de Ingeniería Informática y Ciencias de la Computación, Unidad data science, Universidad de Concepción. Modelamiento matemático y simulación numérica del SARS-Cov-2.
 - Investigador y desarrollador de la herramienta South Rivers Toolbox bajo el proyecto CORFO código 19BP-117424.
-
-### Participación en proyectos de investigación
-
-- Proyecto Innova Chile – CORFO Bienes Públicos Adaptación al Cambio Climático. 19BP-117424 – South Rivers Toolbox: Modelo predictor de la morfodinámica fluvial para apoyar la gestión de cauces.
-Participación: Investigador y programador software South Rivers Toolbox.
-
-- CONICYT/PIA/Concurso Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal (AFB170001).
-Participación: Investigador Postdoctoral.
-
-- Proyecto CONICYT/FONDAP (15130015). Centro de Recursos hídricos para la agricultura y la minería (CRHIAM).
-Participación: Colaborador en investigación.
-
-- Anillo de investigación en Análisis numérico de Ecuaciones Diferenciales Parciales (ANANUM), ACT-1118
-Participación: Ayudante de investigación.
-
-- Proyecto UCO 1124, Dirección de Docencia de la Universidad de Concepción.
-Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estudiante (CADE)
 
 ### Charlas en universidades
 
