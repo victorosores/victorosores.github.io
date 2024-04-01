@@ -48,29 +48,6 @@ Talca, Chile.
 - Diseño de herramientas para QGIS (Sistema de Información Geográfica open source) y Análisis de imágenes satelitales.
 - Modelos lluvia-escorrentía.
 
-### Proyectos de investigación
-
-#### Supported by Universidad Católica del Maule
-0. **Principal Researcher** in UCM-IN-24200 internal grant. *Modelos espacio-temporales para estudiar la propagación de enfermedades infecciosas y de plagas en plantaciones*. (2024-2025).
-{: reversed="reversed"}
-
-#### Other research projects
-0. Proyecto Innova Chile – CORFO Bienes Públicos Adaptación al Cambio Climático. 19BP-117424 – South Rivers Toolbox: Modelo predictor de la morfodinámica fluvial para apoyar la gestión de cauces.
-Participación: Investigador y programador software South Rivers Toolbox.
-
-0. CONICYT/PIA/Concurso Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal (AFB170001).
-Participación: Investigador Postdoctoral.
-
-0. Proyecto CONICYT/FONDAP (15130015). Centro de Recursos hídricos para la agricultura y la minería (CRHIAM).
-Participación: Colaborador en investigación.
-
-0. Anillo de investigación en Análisis numérico de Ecuaciones Diferenciales Parciales (ANANUM), ACT-1118
-Participación: Ayudante de investigación.
-
-0. Proyecto UCO 1124, Dirección de Docencia de la Universidad de Concepción.
-Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estudiante (CADE)
-{: reversed="reversed"}
-
 ### Publicaciones
 
 #### Preprints Under Review
@@ -100,6 +77,30 @@ Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estud
 
 0. **Raimund Bürger**, **Víctor Osores**: *On the mathematical and numerical treatment of polydisperse sedimentation*. **Proceedings of the International Conference on Numerical Analysis, Computing and Applications in Science, Engineering and Technology (ICNumACA’18)**, (2018).
 {: reversed="reversed"}
+
+### Proyectos de investigación
+
+#### Supported by Universidad Católica del Maule
+0. **Principal Researcher** in UCM-IN-24200 internal grant. *Modelos espacio-temporales para estudiar la propagación de enfermedades infecciosas y de plagas en plantaciones*. (2024-2025).
+{: reversed="reversed"}
+
+#### Other research projects
+0. Proyecto Innova Chile – CORFO Bienes Públicos Adaptación al Cambio Climático. 19BP-117424 – South Rivers Toolbox: Modelo predictor de la morfodinámica fluvial para apoyar la gestión de cauces.
+Participación: Investigador y programador software South Rivers Toolbox.
+
+0. CONICYT/PIA/Concurso Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal (AFB170001).
+Participación: Investigador Postdoctoral.
+
+0. Proyecto CONICYT/FONDAP (15130015). Centro de Recursos hídricos para la agricultura y la minería (CRHIAM).
+Participación: Colaborador en investigación.
+
+0. Anillo de investigación en Análisis numérico de Ecuaciones Diferenciales Parciales (ANANUM), ACT-1118
+Participación: Ayudante de investigación.
+
+0. Proyecto UCO 1124, Dirección de Docencia de la Universidad de Concepción.
+Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estudiante (CADE)
+{: reversed="reversed"}
+
 ### Cargos
 
 - Académico e investigador en Universidad Católica del Maule [Actual].
