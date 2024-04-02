@@ -414,7 +414,8 @@ Concepción-Chile
 ### Teaching
 #### Past and Current Courses
 - **[2024-1]** Análisis Matemático, UCM.
-  - <a href="https://victorosores.github.io/files/chapter1.pdf" target="_blank">Capítulo 1</a>, **Walter Rudin**, *Principles of mathematical analysis*.
+  - <a href="https://victorosores.github.io/files/chapter1.pdf" target="_blank">Capítulo 1</a>, *Sistema de los números reales*, **Walter Rudin**, *Principles of mathematical analysis*.
+  - <a href="https://victorosores.github.io/files/chapter2.pdf" target="_blank">Capítulo 2</a>, *Topología básica*, **Walter Rudin**, *Principles of mathematical analysis*.
 - **[2024-1]** Introducción al Cálculo, UCM.
 - **[2024-1]** Modelización Discreta, Doctorado en modelamiento matemático aplicado, UCM.
 - **[2023-2]** Modelización Continua II, UCM.
