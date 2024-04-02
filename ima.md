@@ -3,7 +3,19 @@ layout: default
 title: Divulgación IMA
 description: Ejemplos de modelamiento matemático
 ---
-
+# Videos interesantes
+### Mates Mike: El Problema de los Tres Cuerpos, una Visualización del CAOS del Cosmos.
+<p style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/427vNUBNguw?si=fvn0EH4IpxjMowK6" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+### Veritasium: El Extraño Comportamiento de los Objetos en Rotación.
+<p style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yIz6hHgRmk8?si=iWdviu_BVcnv8Ss6" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+### Date un vlog: El Problema de los 3 Cuerpos: El Origen de la Serie de Netflix. 
+<p style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QAshpZNMyCE?si=iawuxV4SGn8ct9ec" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 <h1>Modelamiento matemático</h1>
 <h2>Modelo depredador-presa (Lotka–Volterra)</h2>
@@ -23,9 +35,9 @@ description: Ejemplos de modelamiento matemático
 
 <p>donde $r_1, r_2, a_1, a_2$ son parámetros (positivos) que representan las interacciones de las dos especies.</p>
 
-<div>
+<p style="text-align: center;">
 <iframe width="560" height="315" src="https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection_es.html" title="Depredador presa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</p>
 
 <p><strong>Ejemplo</strong> del modelo presentado con condición inicial 
   $P(0) = 2000$ conejos, $D(0) = 10$ lobos y capacidad de carga $k=10000$ conejos.
@@ -36,16 +48,16 @@ description: Ejemplos de modelamiento matemático
   </div>
 <!-- </div> -->
 <h2>Ecuaciones de aguas someras (Shallow water equations)</h2>
-<p class="justificado"> 
+<p> 
   En la actualidad, científicos de todo el mundo intentan continuamente utilizar métodos numéricos para
 predecir la evolución de eventos geofísicos e industriales de alto impacto social, 
 ambiental y económico. En particular, Chile es un país que constantemente ha sido afectado por tsunamis, deslizamientos de
 tierra e inundaciones que han dejado bajo el agua y lodo ciudades enteras.
 </p>
-<div>
+<p style="text-align: center;">
   <img src ="img/villa_santa_lucia.jpg" style="max-width: 70%;">
   <figcaption>Fig.1 Aluvión de Villa Santa Lucı́a, Chaitén.</figcaption>
-</div>
+</p>
 <p>
   La caracterización y estudio
   de estos fenómenos implica la modelización matemática y númerica de ecuaciones 
@@ -75,9 +87,9 @@ tierra e inundaciones que han dejado bajo el agua y lodo ciudades enteras.
   y el vector 2D $(u,v)$ es el campo de velocidad horizontal del fluido. Además, $g$ es la aceleración de la gravedad y $\rho$ 
   es la densidad del fluido.</p>
 
-<div>
-<iframe width="560" height="315" src="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_es.html" title="ondas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<p style="text-align: center;">
+<iframe width="560" height="315" src="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_es.html" title="ondas" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <p><strong>Importancia:</strong>
 <ul>
@@ -98,10 +110,10 @@ tierra e inundaciones que han dejado bajo el agua y lodo ciudades enteras.
   </li>
 </ul>
 </p>
-<div>
+<p style="text-align: center;">
   <img src ="img/juanpabloii.jpg" style="max-width: 70%;">
   <figcaption>Fig.2 Inundación río Bio-Bio, Concepción.</figcaption>
-</div>
+</p>
 
 <h2>Oscilaciones amortiguadas de un péndulo simple</h2>
 
@@ -129,8 +141,8 @@ x(t)=x_0e^{-\gamma t}\cos(\omega t + \psi_0),
 \]
 con $\gamma=b/2m$, $w=\sqrt{\omega_0^2-\gamma^2}$.
 </p>
-<div class="center">
-  <iframe width="560" height="315" src="https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_es.html" title="Movimiento armónico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+<p style="text-align: center;">
+  <iframe width="560" height="315" src="https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_es.html" title="Movimiento armónico" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
 [back](./)

@@ -433,8 +433,12 @@ Concepción-Chile
 - **[2021-1]** Álgebra lineal, UDEC.
   - [Apunte de Álgebra lineal](https://victorosores.github.io/files/algebra_lineal.pdf), **Víctor Osores**.
   
-  
-  
+#### Horario 2024-I
+<object data="img/horario_V_Osores_2024_I.pdf" type="application/pdf" width="100%" height="645px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="img/horario_V_Osores_2024_I.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
     
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
