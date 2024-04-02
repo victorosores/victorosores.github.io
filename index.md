@@ -435,7 +435,7 @@ Concepción-Chile
   
 #### Horario 2024-I
 <object data="img/horario_V_Osores_2024_I.pdf" type="application/pdf" width="100%" height="645px">
-    <embed src="http://yoursite.com/the.pdf">
+    <embed src="img/horario_V_Osores_2024_I.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="img/horario_V_Osores_2024_I.pdf">Download PDF</a>.</p>
     </embed>
 </object>
