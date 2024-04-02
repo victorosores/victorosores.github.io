@@ -403,12 +403,12 @@ Cauquenes-Chile
 
 #### Educación Superior
 
-- Universidad de Concepción
-Ingeniería civil matemática
-Concepción-Chile  
-- Universidad de Concepción
-Doctorado en ciencias aplicadas con mención en ingeniería matemática
-Concepción-Chile
+- Ingeniería civil matemática, Universidad de Concepción, Concepción-Chile.  
+**Título Tesis:** <a href="https://www.ci2ma.udec.cl/publicaciones/tesispregrado/egresado.php?id=29" target="_blank">Modelamiento matemático y simulación numérica de un sistema de shallow water multicapa con sedimentación polidispersa en dos dimensiones horizontales.</a>  
+**Director(es) de Tesis:** Raimund Bürger, Enrique D. Fernández-Nieto.
+- Doctorado en ciencias aplicadas con mención en ingeniería matemática, Universidad de Concepción, Concepción-Chile.  
+**Título Tesis:** <a href="https://www.ci2ma.udec.cl/publicaciones/tesisposgrado/graduado.php?id=69" target="_blank">Sistema shallow water multicapa para sedimentación polidispersa: Teoría, Análisis numérico y Aplicaciones.</a>  
+**Director(es) de Tesis:** Raimund Bürger, Enrique D. Fernández-Nieto.
 
 ****
 ### Teaching
