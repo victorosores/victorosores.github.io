@@ -9,7 +9,7 @@ Nombre: Víctor Andrés Osores Escalona
 Fecha de Nacimiento: 10 de Agosto de 1988  
 Nacionalidad: Chilena  
 Email: vosores@ucm.cl  
-Página personal: [https://vosores.github.io](https://victorosores.github.io)
+Página personal: [https://victorosores.github.io](https://victorosores.github.io)
 
 ### Afiliación
 
