@@ -2,15 +2,17 @@
 layout: default
 title: Dr. Víctor Osores
 ---
+| - | - |
+|---|---|
+| ![Firma Víctor Osores](img/firma_db.png) | ![Víctor Osores](https://vosores.github.io/images/profile.png) |
+
 ## Curriculum Vitae
 ### Antecedentes personales
-
 Nombre: Víctor Andrés Osores Escalona  
 Fecha de Nacimiento: 10 de Agosto de 1988  
 Nacionalidad: Chilena  
 Email: vosores@ucm.cl  
 Página personal: [https://victorosores.github.io](https://victorosores.github.io)
-
 ### Afiliación
 
 Académico e investigador  
@@ -176,10 +178,24 @@ Lund-Sweden
 Título: A dynamic multilayer shallow water model for polydisperse sedimentation.
 
 #### Congresos y seminarios (Expositor)
+- Universidad Militar Nueva Granada, Colombia, (2023)  
+IX Coloquio de Matemáticas Aplicadas y V Encuentro Internacional de Matemáticas Aplicadas  
+Titulo:  Modelamiento matemático de procesos de sedimentación polidispersa y aplicaciones.
 
-- Universidad de Concepción
-WONAPDE 2019
-Sixth Chilean Workshop on Numerical Analysis of Partial Differential Equations.
+- Universidad Católica del Maule, Talca, Chile, Septiembre, (2022).  
+Segunda jornada de investigación: Creando y enseñando Ciencia con Ciencia
+Titulo: Modelos de sedimentación polidispersa y aplicaciones.
+
+- Universidad Católica del Maule, Talca, Chile, Agosto, (2022).  
+Proyecto DoCienciaUCM (UCM1999)  
+Titulo: Una mirada a mi experiencia docente: Enseñanza y aprendizaje del contenido y el uso de tecnología.
+
+- Universidad Católica del Maule, Talca, Chile, Abril, (2022).  
+Titulo: Modelos matemáticos: importancia y como enfrentarlos.
+
+- Universidad de Concepción  
+WONAPDE 2019  
+Sixth Chilean Workshop on Numerical Analysis of Partial Differential Equations.  
 Título: A multilayer shallow water model for polydisperse sedimentation with sediment compressibility and mixture viscosity.
 
 - Universidad de Antofagasta
@@ -335,8 +351,8 @@ Sevilla-España
 Instituto de Matemáticas Universidad de Sevilla Antonio de Castro Brzezicki (IMUS).
 
 ****
-### Premios y Distinciones
-
+### Becas y Reconocimiento
+- Reconociemiento a la innovación docente. Universidad Católica del Maule, (2023).
 - Beca de Doctorado nacional (CONICYT).
 - Beca CRHIAM (Centro de Recursos Hídricos para la Agricultura y la Minería).
 
@@ -374,8 +390,7 @@ Quillón-Chile
 
 - Escuela Silvestre Paiva Manríquez
 1st–6th
-Cauquenes-Chile
-
+Cauquenes-Chile  
 - Escuela Dr. Francisco Meza
 7th–8th
 Cauquenes-Chile
@@ -386,12 +401,11 @@ Cauquenes-Chile
 1st–4th
 Cauquenes-Chile
 
-- Educación Superior
+#### Educación Superior
 
 - Universidad de Concepción
 Ingeniería civil matemática
-Concepción-Chile
-
+Concepción-Chile  
 - Universidad de Concepción
 Doctorado en ciencias aplicadas con mención en ingeniería matemática
 Concepción-Chile
@@ -530,6 +544,24 @@ end
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
+<table>
+    <tbody>
+        <tr>
+            <td align="left">
+            <p>Nombre: Víctor Andrés Osores Escalona<br>
+            Fecha de Nacimiento: 10 de Agosto de 1988<br>  
+Nacionalidad: Chilena<br>  
+Email: vosores@ucm.cl<br>
+Página personal: <a href="https://victorosores.github.io">https://victorosores.github.io</a></p>
+            </td>
+            <td align="center" style="width:29%">
+            <figure>
+  <img src="https://vosores.github.io/images/profile.png">
+</figure>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ```
 The final element.
