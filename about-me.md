@@ -4,7 +4,14 @@ title: Dr. Víctor Osores
 description: Facultad de Ciencias Básicas, Dpto. Matemática, Física y Estadística, Universidad Católica del Maule.
 ---
 
-## Acerca de mi
+### Acerca de mi
+
+Nombre: Víctor Andrés Osores Escalona  
+Fecha de Nacimiento: 10 de Agosto de 1988  
+Nacionalidad: Chilena  
+Email: vosores@ucm.cl  
+Página personal: [https://victorosores.github.io](https://victorosores.github.io)
+
 ![Víctor Osores](https://vosores.github.io/images/profile.png)
 ### Títulos y grados
 
