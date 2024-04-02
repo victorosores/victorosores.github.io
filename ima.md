@@ -5,15 +5,6 @@ description: Ejemplos de modelamiento matemático
 ---
 # Videos interesantes
 ### Mates Mike: El Problema de los Tres Cuerpos, una Visualización del CAOS del Cosmos.
-
-<div style="text-align:center;">
-<table border="0" style="margin: 0 auto;">
-    <tr>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/427vNUBNguw?si=fvn0EH4IpxjMowK6" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </tr>
-</table>
-</div>
-
 <p style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/427vNUBNguw?si=fvn0EH4IpxjMowK6" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
