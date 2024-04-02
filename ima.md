@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Divulgación IMA
-description: Ejemplos de modelamiento matemático
+description: Modelos matemáticos, simulaciones, videos, otros.
 ---
 # Videos interesantes
 ### Mates Mike: El Problema de los Tres Cuerpos, una Visualización del CAOS del Cosmos.

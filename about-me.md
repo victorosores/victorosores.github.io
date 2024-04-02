@@ -17,7 +17,7 @@ Página personal: [https://victorosores.github.io](https://victorosores.github.i
 
 - Doctor en Ciencias Aplicadas c/m Ingeniería Matemática (Ph.D in Applied Mathematics), Universidad de Concepción, Concepción, Chile, Noviembre 2019.
 - Ingeniero Civil Matemático (Mathematical Engineer), Universidad de Concepción, Concepción, Chile, Abril 2015.
-- Diplomado en innovación en enseñanza de las Ciencias, Universidad Católica del Maule, Talca, Chile, Abril 2023.
+- Diplomado en innovación en enseñanza de las Ciencias, <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>, Talca, Chile, Abril 2023.
 - Licenciado en Ciencias de la Ingeniería Matemática (Bachelor of Sciences in Mathematical Engineering), Universidad de Concepción, Concepción, Chile, Julio 2013.
 
 ### Intereses de investigación (Research Interests)
@@ -32,11 +32,13 @@ Página personal: [https://victorosores.github.io](https://victorosores.github.i
 
 Facultad de Ciencias Básicas
 Departamento de Matemática, Física y Estadística
-Universidad Católica del Maule
+<a href="https://portal.ucm.cl">Universidad Católica del Maule</a>
 Campus San Miguel, Avenida San Miguel 3605
 Talca, Chile
 email: vosores@ucm.cl
 
-- Víctor Andrés Osores Escalona
+<p style="text-align: right;">
+Dr. Víctor Andrés Osores Escalona.
+</p>
 
 [back](./)

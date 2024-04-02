@@ -18,7 +18,7 @@ Página personal: [https://victorosores.github.io](https://victorosores.github.i
 Académico e investigador  
 Departamento de Matemática, Física y Estadística  
 Facultad de Ciencias Básicas  
-Universidad Católica del Maule  
+<a href="https://portal.ucm.cl">Universidad Católica del Maule</a>  
 Talca, Chile.
 
 ### Títulos y grados
@@ -130,7 +130,7 @@ Talca, Chile.
 ****
 ### Proyectos de investigación
 
-#### Supported by Universidad Católica del Maule
+#### Supported by <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>
 0. **Principal Researcher** in UCM-IN-24200 internal grant. *Modelos espacio-temporales para estudiar la propagación de enfermedades infecciosas y de plagas en plantaciones*. (2024-2025).
 {: reversed="reversed"}
 
@@ -154,7 +154,7 @@ Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estud
 ****
 ### Cargos
 
-- Académico e investigador en Universidad Católica del Maule [Actual].
+- Académico e investigador en <a href="https://portal.ucm.cl">Universidad Católica del Maule</a> [Actual].
 - Docente Part-time Universidad de Concepción.
 - Docente Part-time Universidad Católica de la Santísima Concepción.
 - Postdoctorando en Departamento de Ingeniería Informática y Ciencias de la Computación, Unidad data science, Universidad de Concepción. Modelamiento matemático y simulación numérica del SARS-Cov-2.
@@ -164,7 +164,7 @@ Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estud
 ### Talks
 #### Charlas en universidades
 
-- Universidad Católica del Maule[Abril 2022]
+- <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>[Abril 2022]
 Departamento de Matemática, Física y Estadística
 Talca-Chile
 Título: Modelos matemáticos: importancia y como enfrentarlos.
@@ -182,15 +182,15 @@ Título: A dynamic multilayer shallow water model for polydisperse sedimentation
 IX Coloquio de Matemáticas Aplicadas y V Encuentro Internacional de Matemáticas Aplicadas  
 Titulo:  Modelamiento matemático de procesos de sedimentación polidispersa y aplicaciones.
 
-- Universidad Católica del Maule, Talca, Chile, Septiembre, (2022).  
+- <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>, Talca, Chile, Septiembre, (2022).  
 Segunda jornada de investigación: Creando y enseñando Ciencia con Ciencia
 Titulo: Modelos de sedimentación polidispersa y aplicaciones.
 
-- Universidad Católica del Maule, Talca, Chile, Agosto, (2022).  
+- <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>, Talca, Chile, Agosto, (2022).  
 Proyecto DoCienciaUCM (UCM1999)  
 Titulo: Una mirada a mi experiencia docente: Enseñanza y aprendizaje del contenido y el uso de tecnología.
 
-- Universidad Católica del Maule, Talca, Chile, Abril, (2022).  
+- <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>, Talca, Chile, Abril, (2022).  
 Titulo: Modelos matemáticos: importancia y como enfrentarlos.
 
 - Universidad de Concepción  
@@ -352,7 +352,7 @@ Instituto de Matemáticas Universidad de Sevilla Antonio de Castro Brzezicki (IM
 
 ****
 ### Becas y Reconocimiento
-- Reconociemiento a la innovación docente. Universidad Católica del Maule, (2023).
+- Reconociemiento a la innovación docente. <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>, (2023).
 - Beca de Doctorado nacional (CONICYT).
 - Beca CRHIAM (Centro de Recursos Hídricos para la Agricultura y la Minería).
 
@@ -414,24 +414,24 @@ Concepción-Chile
 ### Teaching
 #### Past and Current Courses
 - **[2024-1]** Análisis Matemático, UCM.
-  - [Capítulo 1](https://victorosores.github.io/files/chapter1.pdf), **Walter Rudin**, *Principles of mathematical analysis*.
+  - <a href="https://victorosores.github.io/files/chapter1.pdf" target="_blank">Capítulo 1</a>, **Walter Rudin**, *Principles of mathematical analysis*.
 - **[2024-1]** Introducción al Cálculo, UCM.
 - **[2024-1]** Modelización Discreta, Doctorado en modelamiento matemático aplicado, UCM.
 - **[2023-2]** Modelización Continua II, UCM.
-  - [Capítulo 1](https://victorosores.github.io/files/DMA122_cap_1.pdf), *Definiciones Básicas*, **Víctor Osores**.
-  - [Capítulo 2](https://victorosores.github.io/files/DMA122_cap_2.pdf), *Ecuaciones de Primer Orden: Caso Lineal*, **Víctor Osores**.
-  - [Capítulo 3](https://victorosores.github.io/files/DMA122_cap_3.pdf), *Ecuaciones de Primer Orden: No todo son flores*, **Víctor Osores**.
-  - [Capítulo 4](https://victorosores.github.io/files/DMA122_cap_4.pdf), *Ecuaciones semilineales de segundo orden*, **Víctor Osores**.
+  - <a href="https://victorosores.github.io/files/DMA122_cap_1.pdf" target="_blank">Capítulo 1</a>, *Definiciones Básicas*, **Víctor Osores**.  
+  - <a href="https://victorosores.github.io/files/DMA122_cap_2.pdf" target="_blank">Capítulo 2</a>, *Ecuaciones de Primer Orden: Caso Lineal*, **Víctor Osores**.  
+  - <a href="https://victorosores.github.io/files/DMA122_cap_3.pdf" target="_blank">Capítulo 3</a>, *Ecuaciones de Primer Orden: No todo son flores*, **Víctor Osores**.  
+  - <a href="https://victorosores.github.io/files/DMA122_cap_4.pdf" target="_blank">Capítulo 4</a>, *Ecuaciones semilineales de segundo orden*, **Víctor Osores**.
 - **[2023-2]** Ecuaciones Diferenciales Ordinarias, UCM.
-  - [Apunte de Ecuaciones Diferenciales Ordinarias](https://victorosores.github.io/files/EDO.pdf), **Víctor Osores**.
+  - <a href="https://victorosores.github.io/files/EDO.pdf" target="_blank">Apunte de Ecuaciones Diferenciales Ordinarias</a>, **Víctor Osores**.
 - **[2023-2]** Modelamiento y fenómenos de evolución, UCM.
-  - [Predator-prey example](./predator-prey.html)
+  - <a href="./predator-prey.html" target="_blank">Predator-prey example</a>.
 - **[2023-1]** Cálculo II (varias variables), UCM.
-  - [Apunte de Cálculo II](https://victorosores.github.io/files/Calculo_varias_variables.pdf), **Víctor Osores**.
+  - <a href="https://victorosores.github.io/files/Calculo_varias_variables.pdf" target="_blank">Apunte de Cálculo II</a>, **Víctor Osores**.
 - **[2022-1]** Estructuras algebraicas, UCM.
-  - [Apunte de Estructuras algebraicas](https://victorosores.github.io/files/Estructuras_Algebraicas.pdf), **Víctor Osores**.
+  - <a href="https://victorosores.github.io/files/Estructuras_Algebraicas.pdf" target="_blank">Apunte de Estructuras algebraicas</a>, **Víctor Osores**.
 - **[2021-1]** Álgebra lineal, UDEC.
-  - [Apunte de Álgebra lineal](https://victorosores.github.io/files/algebra_lineal.pdf), **Víctor Osores**.
+  - <a href="https://victorosores.github.io/files/algebra_lineal.pdf" target="_blank">Apunte de Álgebra lineal</a>, **Víctor Osores**.
   
 #### Horario 2024-I
 <object data="img/horario_V_Osores_2024_I.pdf" type="application/pdf" width="100%" height="645px">
