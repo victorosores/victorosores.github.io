@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dr. Víctor Osores
-description: This is just about me
+description: Facultad de Ciencias Básicas, Dpto. Matemática, Física y Estadística, Universidad Católica del Maule.
 ---
 
 ## Acerca de mi
