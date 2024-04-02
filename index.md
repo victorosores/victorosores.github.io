@@ -63,12 +63,58 @@ Talca, Chile.
 0. **Francisca Salas, Santiago Yépez, José Vargas, Rolando Rodríguez, Víctor Osores, Andrea Nardini, Hervé Piégay**: *"Morphological characterization of the duqueco river applying the river styles framework*. **Revista de la Sociedad Chilenade Ingeniería HidráulicaEdition (SOCHID)**, vol 37, Num. 3, (2022).
 
 0. **Neftali Flores**, **Rolando Rodríguez**, **Santiago Yepez**, **Víctor Osores**, **Pedro Rau**, **Francisco Balocchi**: *Calibration and validation of three hydrological models of daily rainfall applied in four small watersheds in south-central chile*. **Water**, (2021).
+~~~
+@article{Flores2021,
+  title = {Comparison of Three Daily Rainfall-Runoff Hydrological Models Using Four Evapotranspiration Models in Four Small Forested Watersheds with Different Land Cover in South-Central Chile},
+  volume = {13},
+  ISSN = {2073-4441},
+  url = {http://dx.doi.org/10.3390/w13223191},
+  DOI = {10.3390/w13223191},
+  number = {22},
+  journal = {Water},
+  publisher = {MDPI AG},
+  author = {Flores,  Neftali and Rodríguez,  Rolando and Yépez,  Santiago and Osores,  Victor and Rau,  Pedro and Rivera,  Diego and Balocchi,  Francisco},
+  year = {2021},
+  month = nov,
+  pages = {3191}
+}
+~~~
 
 
 0. **Raimund Bürger**, **Enrique D. Fernández-Nieto**, **Víctor Osores**: *A multilayer shallow water approach for polydisperse sedimentation with sediment compressibility and mixture viscosity*. **Journal of Scientific Computing**, (2020).
-
+~~~
+@article{Brger2020,
+  title = {A Multilayer Shallow Water Approach for Polydisperse Sedimentation with Sediment Compressibility and Mixture Viscosity},
+  volume = {85},
+  ISSN = {1573-7691},
+  url = {http://dx.doi.org/10.1007/s10915-020-01334-6},
+  DOI = {10.1007/s10915-020-01334-6},
+  number = {2},
+  journal = {Journal of Scientific Computing},
+  publisher = {Springer Science and Business Media LLC},
+  author = {B\"{u}rger,  Raimund and Fernández-Nieto,  Enrique D. and Osores,  Víctor},
+  year = {2020},
+  month = nov 
+}
+~~~
 
 0. **Raimund Bürger**, **Enrique D. Fernández-Nieto**, **Víctor Osores**: *A dynamic multilayer shallow water model for polydisperse sedimentation*. **ESAIM: Mathematical Modelling and Numerical Analysis**, (2019).
+~~~
+@article{Brger2019,
+  title = {A dynamic multilayer shallow water model for polydisperse sedimentation},
+  volume = {53},
+  ISSN = {1290-3841},
+  url = {http://dx.doi.org/10.1051/m2an/2019032},
+  DOI = {10.1051/m2an/2019032},
+  number = {4},
+  journal = {ESAIM: Mathematical Modelling and Numerical Analysis},
+  publisher = {EDP Sciences},
+  author = {B\"{u}rger,  Raimund and Fernández-Nieto,  Enrique D. and Osores,  Víctor},
+  year = {2019},
+  month = jul,
+  pages = {1391–1432}
+}
+~~~
 {: reversed="reversed"}
 
 #### Articles in Proceedings or Book Chapters
@@ -357,11 +403,25 @@ Concepción-Chile
   - [Capítulo 1](https://victorosores.github.io/files/chapter1.pdf), **Walter Rudin**, *Principles of mathematical analysis*.
 - **[2024-1]** Introducción al Cálculo, UCM.
 - **[2024-1]** Modelización Discreta, Doctorado en modelamiento matemático aplicado, UCM.
+- **[2023-2]** Modelización Continua II, UCM.
+  - [Capítulo 1](https://victorosores.github.io/files/DMA122_cap_1.pdf), *Definiciones Básicas*, **Víctor Osores**.
+  - [Capítulo 2](https://victorosores.github.io/files/DMA122_cap_2.pdf), *Ecuaciones de Primer Orden: Caso Lineal*, **Víctor Osores**.
+  - [Capítulo 3](https://victorosores.github.io/files/DMA122_cap_3.pdf), *Ecuaciones de Primer Orden: No todo son flores*, **Víctor Osores**.
+  - [Capítulo 4](https://victorosores.github.io/files/DMA122_cap_4.pdf), *Ecuaciones semilineales de segundo orden*, **Víctor Osores**.
 - **[2023-2]** Ecuaciones Diferenciales Ordinarias, UCM.
   - [Apunte de Ecuaciones Diferenciales Ordinarias](https://victorosores.github.io/files/EDO.pdf), **Víctor Osores**.
-- **[2023-1]** Modelamiento y fenómenos de evolución, UCM.
+- **[2023-2]** Modelamiento y fenómenos de evolución, UCM.
   - [Predator-prey example](./predator-prey.html)
- 
+- **[2023-1]** Cálculo II (varias variables), UCM.
+  - [Apunte de Cálculo II](https://victorosores.github.io/files/Calculo_varias_variables.pdf), **Víctor Osores**.
+- **[2022-1]** Estructuras algebraicas, UCM.
+  - [Apunte de Estructuras algebraicas](https://victorosores.github.io/files/Estructuras_Algebraicas.pdf), **Víctor Osores**.
+- **[2021-1]** Álgebra lineal, UDEC.
+  - [Apunte de Álgebra lineal](https://victorosores.github.io/files/algebra_lineal.pdf), **Víctor Osores**.
+  
+  
+  
+    
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

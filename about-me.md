@@ -6,7 +6,7 @@ description: This is just about me
 
 ## Acerca de mi
 ![Víctor Osores](https://vosores.github.io/images/profile.png)
-### Educación
+### Títulos y grados
 
 - Doctor en Ciencias Aplicadas c/m Ingeniería Matemática (Ph.D in Applied Mathematics), Universidad de Concepción, Concepción, Chile, Noviembre 2019.
 - Ingeniero Civil Matemático (Mathematical Engineer), Universidad de Concepción, Concepción, Chile, Abril 2015.
