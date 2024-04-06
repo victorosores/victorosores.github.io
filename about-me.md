@@ -12,7 +12,10 @@ Nacionalidad: Chilena
 Email: vosores@ucm.cl  
 Página personal: [https://victorosores.github.io](https://victorosores.github.io)
 
-![Víctor Osores](https://vosores.github.io/images/profile.png)
+<p style="text-align: center;">
+  <img src ="https://vosores.github.io/images/profile.png" style="max-width: 70%;">
+</p>
+
 ### Títulos y grados
 
 - Doctor en Ciencias Aplicadas c/m Ingeniería Matemática (Ph.D in Applied Mathematics), Universidad de Concepción, Concepción, Chile, Noviembre 2019.
