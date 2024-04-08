@@ -25,6 +25,7 @@ Talca, Chile.
 
 - Doctor en ciencias aplicadas con mención en ingeniería matemática, Universidad de Concepción.
 - Ingeniero civil matemático, Universidad de Concepción.
+- Diplomado en innovación en enseñanza de las Ciencias, <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>, Talca, Chile, Abril 2023.
 - Licenciado en ciencias de la ingeniería matemática, Universidad de Concepción.
 
 ### Líneas de Especialización
@@ -131,7 +132,8 @@ Talca, Chile.
 ### Proyectos de investigación
 
 #### Supported by <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>
-0. **Principal Researcher** in UCM-IN-24200 internal grant. *Modelos espacio-temporales para estudiar la propagación de enfermedades infecciosas y de plagas en plantaciones*. (2024-2025).
+0. **Principal Researcher** in UCM-IN-24200 internal grant. *Modelos espacio-temporales para estudiar la propagación de enfermedades infecciosas y de plagas en plantaciones*. (2024-2025).  
+**Co-Researcher** Leidy Yissedt Lara-Díaz.
 {: reversed="reversed"}
 
 #### Other research projects
