@@ -429,10 +429,13 @@ Cauquenes-Chile
 
 ****
 ### Teaching
+En esta sección, te doy la bienvenida a un espacio donde convergen creaciones, recopilaciones, diseño de material (listados, talleres, pruebas, apuntes, otros) relacionadas con las actividades curriculares que he dictado durante las diferentes etapas de mi trayectoria laboral. Encontrarás material tanto de mis experiencias laborales previas como de los recursos desarrollados en la Universidad Católica del Maule.
 #### Past and Current Courses
 - **[2024-1]** Análisis Matemático, UCM.
   - <a href="https://victorosores.github.io/files/chapter1.pdf" target="_blank">Capítulo 1</a>, *Sistema de los números reales*, **Walter Rudin**, *Principles of mathematical analysis*.
+    - <a href="https://victorosores.github.io/files/Analisis/rudin_ch_1.pdf" target="_blank">Sol. Capítulo 1</a>.
   - <a href="https://victorosores.github.io/files/chapter2.pdf" target="_blank">Capítulo 2</a>, *Topología básica*, **Walter Rudin**, *Principles of mathematical analysis*.
+    - <a href="https://victorosores.github.io/files/Analisis/rudin_ch_2.pdf" target="_blank">Sol. Capítulo 2</a>.
 - **[2024-1]** Introducción al Cálculo, UCM.  
   - <a href="./ejercicios_ine.html">Ejercicios resueltos de inecuaciones.</a>
 - **[2024-1]** Modelización Discreta, Doctorado en modelamiento matemático aplicado, UCM.
@@ -451,7 +454,8 @@ Cauquenes-Chile
   - <a href="https://victorosores.github.io/files/Estructuras_Algebraicas.pdf" target="_blank">Apunte de Estructuras algebraicas</a>, **Víctor Osores**.
 - **[2021-1]** Álgebra lineal, UDEC.
   - <a href="https://victorosores.github.io/files/algebra_lineal.pdf" target="_blank">Apunte de Álgebra lineal</a>, **Víctor Osores**.
-  
+    - <a href="https://victorosores.github.io/files/Algebra/Listado_1.pdf" target="_blank">Listado 1</a>, <a href="https://victorosores.github.io/files/Algebra/Listado_2.pdf" target="_blank">Listado 2</a>, <a href="https://victorosores.github.io/files/Algebra/Listado_3.pdf" target="_blank">Listado 3</a>, <a href="https://victorosores.github.io/files/Algebra/Listado_4.pdf" target="_blank">Listado 4</a>, <a href="https://victorosores.github.io/files/Algebra/Listado_5.pdf" target="_blank">Listado 5</a>, <a href="https://victorosores.github.io/files/Algebra/Listado_6.pdf" target="_blank">Listado 6</a>, <a href="https://victorosores.github.io/files/Algebra/Listado_7.pdf" target="_blank">Listado 7</a>, <a href="https://victorosores.github.io/files/Algebra/Listado_8.pdf" target="_blank">Listado 8</a>.
+
 #### Horario 2024-I
 <object data="img/horario_V_Osores_2024_I.pdf" type="application/pdf" width="100%" height="645px">
     <embed src="img/horario_V_Osores_2024_I.pdf">
