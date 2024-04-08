@@ -53,9 +53,14 @@ Talca, Chile.
 
 ****
 ### Publicaciones
+#### Articles in progress
+0. **Víctor Osores**, **Francisca Tapia-Donoso**, *Polydisperse sedimentation processes and transport of non-cohesive and cohesive sediment suspensions with different sizes and densities*.
+
+0. **Rodrigo Gutiérrez**, **Víctor Osores**, **Nelson A. Velasquez**, *Spatio-temporal dynamics of anuran male choirs as an energetically limited swarmalator system*.
+{: reversed="reversed"}
 
 #### Preprints Under Review
-0. **Julio Careaga**, **Víctor Osores**, A multilayer shallow water model for polydisperse reactive sedimentation. **Preprint 2024-01**.
+0. **Julio Careaga**, **Víctor Osores**, *A multilayer shallow water model for polydisperse reactive sedimentation*. **Preprint 2024-01**.
 
 0. **Nicole Martínez-Jeraldo**, **Alejandro Rojas-Palma**, **Marcos Carrasco-Benavides**, **Víctor Osores**: *A mathematical model for the estimation of stomatal conductance under environmental variables*. **Preprint 2024-01**
 {: reversed="reversed"}
@@ -154,12 +159,22 @@ Participación: Tutor de matemáticas en Centro de Apoyo al Desarrollo del Estud
 {: reversed="reversed"}
 
 ****
-### Cargos
+### Cargos  
+#### Cargo actual
+- Académico e investigador en <a href="https://portal.ucm.cl">Universidad Católica del Maule</a>.
+- Director Subrogante Escuela de <a href="https://prenovato.ucm.cl/carreras/ingenieria-matematica/">Ingeniería Matemática</a>, Universidad Católica del Maule.
 
-- Académico e investigador en <a href="https://portal.ucm.cl">Universidad Católica del Maule</a> [Actual].
-- Docente Part-time Universidad de Concepción.
-- Docente Part-time Universidad Católica de la Santísima Concepción.
-- Postdoctorando en Departamento de Ingeniería Informática y Ciencias de la Computación, Unidad data science, Universidad de Concepción. Modelamiento matemático y simulación numérica del SARS-Cov-2.
+#### Cargo previo
+- Docente Part-time,  
+Universidad de Concepción.
+- Docente Part-time,  
+Universidad Católica de la Santísima Concepción.
+- Postdoctorando en Departamento de Ingeniería Informática y Ciencias de la Computación, Unidad data science,  
+Modelamiento matemático y simulación numérica del SARS-Cov-2.  
+Universidad de Concepción.
+- Postdoctorando en el Centro de Investigación en Ingeniería Matemática (CI²MA),  
+Métodos numéricos para EDP hiperbólicas.  
+Universidad de Concepción.
 - Investigador y desarrollador de la herramienta South Rivers Toolbox bajo el proyecto CORFO código 19BP-117424.
 
 ****
@@ -281,49 +296,49 @@ Sesión de Análisis Numérico para resolución de Ecuaciones Diferenciales Parc
 ****
 ### Experiencia académica e investigación
 
-- Universidad de Concepción
-Docente Part-time en el Departamento de Ingeniería Matemática, Facultad ciencias Físicas y Matemáticas.
+- Universidad de Concepción,  
+Docente Part-time en el Departamento de Ingeniería Matemática, Facultad ciencias Físicas y Matemáticas,  
+Concepción-Chile.
+
+- Universidad Católica de la Santísima Concepción,  
+Docente Part-time en el Departamento de Matemática y Física Aplicadas,  
 Concepción-Chile
 
-- Universidad Católica de la Santísima Concepción
-Docente Part-time en el Departamento de Matemática y Física Aplicadas.
-Concepción-Chile
+- Universidad de Concepción,  
+Tesista Doctorado en cs. Aplicadas con mención en Ingeniería Matemática,  
+CI2MA and Departamento de Ingenierı́a Matemática, Facultad de Ciencias Físicas y Matemáticas,  
+Concepción-Chile.
 
-- Universidad de Concepción
-Tesista Doctorado en cs. Aplicadas con mención en Ingeniería Matemática.
-Concepción-Chile
-CI2MA and Departamento de Ingenierı́a Matemática, Facultad de Ciencias Físicas y Matemáticas.
+- Universidad de Sevilla,  
+Estadía de colaboración en trabajos de investigación,
+Instituto de Matemáticas Universidad de Sevilla Antonio de Castro Brzezicki (IMUS),  
+Sevilla-España.
 
-- Universidad de Sevilla
-Estadía de colaboración en trabajos de investigación.
-Sevilla-España
-Instituto de Matemáticas Universidad de Sevilla Antonio de Castro Brzezicki (IMUS).
+- Universidad de Sevilla,  
+Estadía de colaboración en trabajos de investigación,  
+Departamento de Matemática Aplicada I, E.T.S. Arquitectura,  
+Sevilla-España.
 
-- Universidad de Sevilla
-Estadía de colaboración en trabajos de investigación.
-Sevilla-España
-Departamento de Matemática Aplicada I, E.T.S. Arquitectura.
+- Universidad de Concepción,  
+Tesista de Pregrado en Ingeniería civil matemática,  
+Título: Modelamiento Matemático y Simulación Numérica de un Sistema Shallow Water Multicapa con Sedimentación Polidispersa en Dos Dimensiones Horizontales.  
+Advisor: Raimund Bürger.  
+Concepción-Chile.
 
-- Universidad de Concepción
-Tesista de Pregrado en Ingeniería civil matemática
-Concepción-Chile
-Título: Modelamiento Matemático y Simulación Numérica de un Sistema Shallow Water Multicapa con Sedimentación Polidispersa en Dos Dimensiones Horizontales.
-Advisor: Raimund Bürger.
+- Universidad de Sevilla,  
+Estadía de colaboración en trabajos de investigación,  
+Departamento de Matemática Aplicada I, E.T.S. Arquitectura,  
+Sevilla-España.
 
-- Universidad de Sevilla
-Estadía de colaboración en trabajos de investigación.
-Sevilla-España
-Departamento de Matemática Aplicada I, E.T.S. Arquitectura.
+- Universidad de Concepción,  
+Ayudante de cátedra en diferentes asignaturas:  
+Álgebra, Álgebra lineal, Cálculo I, Cálculo II, Ecuaciones diferenciales ordinarias.  
+Departamento de Ingeniería Matemática, Concepción-Chile.
 
-- Universidad de Concepción
-Ayudante de cátedra en diferentes asignaturas.
-Concepción-Chile
-Álgebra, Álgebra lineal, Cálculo I, Cálculo II, Ecuaciones diferenciales ordinarias. Departamento de Ingeniería Matemática.
-
-- Universidad de Concepción
-Consultor en sala de estudios de la Facultad de Ciencias Físicas y Matemáticas.
-Concepción-Chile
-Dar respuesta a consultas de los estudiantes de la Facultad en asignaturas de los primeros tres años de carrera. Álgebra, Álgebra lineal, Cálculo I, Cálculo II, Calculo III, Ecuaciones diferenciales (EDO, EDP), Análisis numérico, entre otras. Departamento de Ingeniería Matemática.
+- Universidad de Concepción,  
+Consultor en sala de estudios de la Facultad de Ciencias Físicas y Matemáticas.  
+Dar respuesta a consultas de los estudiantes de la Facultad en asignaturas de los primeros tres años de carrera. Álgebra, Álgebra lineal, Cálculo I, Cálculo II, Calculo III, Ecuaciones diferenciales (EDO, EDP), Análisis numérico, entre otras. Departamento de Ingeniería Matemática.  
+Concepción-Chile.
 
 ****
 ### Cursos
