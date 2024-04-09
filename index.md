@@ -433,7 +433,7 @@ En esta sección, te doy la bienvenida a un espacio donde convergen creaciones, 
 
 <p style="text-align: center;">
   <img src ="img/navier.gif" style="max-width: 100%;">
-  <figcaption>Ecuaciones de Navier-Stokes.</figcaption>
+  <figcaption>Fig. 1: Ecuaciones de Navier-Stokes.</figcaption>
 </p>
 
 #### Past and Current Courses
