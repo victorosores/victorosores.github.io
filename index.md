@@ -429,7 +429,9 @@ Cauquenes-Chile
 
 ****
 ### Teaching
+<p style="text-align: justify;">
 En esta sección, te doy la bienvenida a un espacio donde convergen creaciones, recopilaciones, diseño de material (listados, talleres, pruebas, apuntes, otros) relacionadas con las actividades curriculares que he dictado durante las diferentes etapas de mi trayectoria laboral. Encontrarás material tanto de mis experiencias laborales previas como de los recursos desarrollados en la Universidad Católica del Maule.
+</p>
 
 <p style="text-align: center;">
   <img src ="img/navier.gif" style="max-width: 100%;">
