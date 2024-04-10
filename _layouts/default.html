@@ -48,36 +48,36 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       {% if page.url == "/" %}
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="https://victorosores.github.io" class="btn">Home</a>
+      <a href="{{ site.github.repository_name }}" class="btn">Home</a>
       <a href="./about-me.html" class="btn">About me</a>
-      <a href="https://victorosores.github.io#teaching" class="btn">Teaching</a>
-      <a href="https://victorosores.github.io#publicaciones" class="btn">Publications</a>
-      <a href="https://victorosores.github.io#proyectos-de-investigación" class="btn">Research Projects</a>
-      <a href="https://victorosores.github.io#curriculum-vitae" class="btn">CV</a>
+      <a href="{{ site.github.repository_name }}#teaching" class="btn">Teaching</a>
+      <a href="{{ site.github.repository_name }}#publicaciones" class="btn">Publications</a>
+      <a href="{{ site.github.repository_name }}#proyectos-de-investigación" class="btn">Research Projects</a>
+      <a href="{{ site.github.repository_name }}#curriculum-vitae" class="btn">CV</a>
       <a href="./ima.html" class="btn">Div. IMA</a>
       <a href="https://www.researchgate.net/profile/Victor-Osores" class="btn" target="_blank">ResearchGate</a>
       <a href="https://www.mathgenealogy.org/id.php?id=255934" class="btn" target="_blank">Math Genealogy</a>
       {% endif %}
       {% if page.url == "/about-me.html" %}
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="https://victorosores.github.io" class="btn">Home</a>
+      <a href="{{ site.github.repository_name }}" class="btn">Home</a>
       <a href="./about-me.html" class="btn">About me</a>
-      <a href="https://victorosores.github.io#teaching" class="btn">Teaching</a>
-      <a href="https://victorosores.github.io#publicaciones" class="btn">Publications</a>
-      <a href="https://victorosores.github.io#proyectos-de-investigación" class="btn">Research Projects</a>
-      <a href="https://victorosores.github.io#curriculum-vitae" class="btn">CV</a>
+      <a href="{{ site.github.repository_name }}#teaching" class="btn">Teaching</a>
+      <a href="{{ site.github.repository_name }}#publicaciones" class="btn">Publications</a>
+      <a href="{{ site.github.repository_name }}#proyectos-de-investigación" class="btn">Research Projects</a>
+      <a href="{{ site.github.repository_name }}#curriculum-vitae" class="btn">CV</a>
       <a href="./ima.html" class="btn">Div. IMA</a>
       <a href="https://www.researchgate.net/profile/Victor-Osores" class="btn" target="_blank">ResearchGate</a>
       <a href="https://www.mathgenealogy.org/id.php?id=255934" class="btn" target="_blank">Math Genealogy</a>
       {% endif %}
       {% if page.url == "/ima.html" %}
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="https://victorosores.github.io" class="btn">Home</a>
+      <a href="{{ site.github.repository_name }}" class="btn">Home</a>
       <a href="./about-me.html" class="btn">About me</a>
-      <a href="https://victorosores.github.io#teaching" class="btn">Teaching</a>
-      <a href="https://victorosores.github.io#publicaciones" class="btn">Publications</a>
-      <a href="https://victorosores.github.io#proyectos-de-investigación" class="btn">Research Projects</a>
-      <a href="https://victorosores.github.io#curriculum-vitae" class="btn">CV</a>
+      <a href="{{ site.github.repository_name }}#teaching" class="btn">Teaching</a>
+      <a href="{{ site.github.repository_name }}#publicaciones" class="btn">Publications</a>
+      <a href="{{ site.github.repository_name }}#proyectos-de-investigación" class="btn">Research Projects</a>
+      <a href="{{ site.github.repository_name }}#curriculum-vitae" class="btn">CV</a>
       <a href="./ima.html" class="btn">Div. IMA</a>
       <a href="https://www.researchgate.net/profile/Victor-Osores" class="btn" target="_blank">ResearchGate</a>
       <a href="https://www.mathgenealogy.org/id.php?id=255934" class="btn" target="_blank">Math Genealogy</a>
@@ -99,7 +99,7 @@
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
         <span class="site-footer-credits"> Built with Jekyll on Cayman. &copy; 2024 V. A. Osores  </span>
-        <span class="site-footer-credits">Link to <a href="{{ site.github.repository_name }}#publicaciones">Home Page</a>.</span>
+        <span class="site-footer-credits">Link to <a href="{{ site.github.repository_name }}">Home Page</a>.</span>
       </footer>
     </main>
   </body>
