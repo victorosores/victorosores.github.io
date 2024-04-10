@@ -4,7 +4,7 @@ title: Dr. Víctor Osores
 ---
 | - | - |
 |---|---|
-| ![Firma Víctor Osores](img/firma_db.png) | ![Víctor Osores](https://vosores.github.io/images/profile.png) |
+| ![Firma Víctor Osores](img/firma_db.png) | ![Víctor Osores](img/profile.png) |
 
 ## Curriculum Vitae
 ### Antecedentes personales

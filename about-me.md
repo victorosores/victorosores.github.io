@@ -12,7 +12,7 @@ Email: vosores@ucm.cl
 Página personal: [https://victorosores.github.io](https://victorosores.github.io)
 
 <p style="text-align: center;">
-  <img src ="https://vosores.github.io/images/profile.png" style="max-width: 70%;">
+  <img src ="/img/profile.png" style="max-width: 70%;">
 </p>
 
 ### Títulos y grados
